@@ -1,0 +1,46 @@
+{
+  "name": "THROWBAXX NFT #59",
+  "symbol": "TBNFT",
+  "description": "THROWBAXX NFT is your all-access premium membership card to giveaways, lifetime holder discounts, and to the Throwbaxx Community.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com//BrokenCoderant/tbnft-MVP/main/Solid%20Gold.png",
+  "external_url": "https://www.throwbaxxnft.com",
+  "edition": 59,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MVP Solid Gold"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "MVP Solid Gold"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "MVP Solid Gold"
+    },
+    {
+      "trait_type": "Laces",
+      "value": "MVP Solid Gold"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "59.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GPp5jSGPHv6vu2LfrpTS4TSaQNqHqMxaaRJqcLM6Bo4k",
+        "share": 50
+      },
+      {
+        "address": "9YGCGsaLDVp3sYKRGyreVsAsyDbp6aG5WRZfSxVdGYVW",
+        "share": 50
+      }
+    ]
+  }
+}
