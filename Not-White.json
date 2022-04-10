@@ -1,0 +1,46 @@
+{
+  "name": "THROWBAXX NFT #538",
+  "symbol": "TBNFT",
+  "description": "THROWBAXX NFT is your all-access premium membership card to giveaways, lifetime holder discounts, and to the Throwbaxx Community.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com//BrokenCoderant/tbnft-MVP/main/NotWhite.png",
+  "external_url": "https://www.throwbaxxnft.com",
+  "edition": 538,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "MVP Not-White"
+    },
+    {
+      "trait_type": "Inner",
+      "value": "MVP Not-White"
+    },
+    {
+      "trait_type": "Outer",
+      "value": "MVP Not-White"
+    },
+    {
+      "trait_type": "Laces",
+      "value": "MVP Not-White"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "538.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "GPp5jSGPHv6vu2LfrpTS4TSaQNqHqMxaaRJqcLM6Bo4k",
+        "share": 50
+      },
+      {
+        "address": "9YGCGsaLDVp3sYKRGyreVsAsyDbp6aG5WRZfSxVdGYVW",
+        "share": 50
+      }
+    ]
+  }
+}
